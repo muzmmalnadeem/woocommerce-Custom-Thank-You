@@ -3,8 +3,8 @@
  * Plugin Name: Custom Thank You Redirect
  * Description: Redirects users to specific thank you pages based on purchased products.
  * Version: 1.3
- * Author: Borderless Solutions
- * Author URI: https://borderlesssolutions.net.au/
+ * Author: Muzmmal Nadeem
+ * Author URI: https://github.com/muzmmalnadeem
  */
 
 // Exit if accessed directly
